@@ -26,6 +26,7 @@ convidados = [
     {"nome": "Kelrry Michetti", "telefone": "5519981538774", "codigo": "Kelrry Michetti", "qtd": 2, "filhos_3menos": False}, 
     {"nome": "Leia Silva", "telefone": "0000000000000000", "codigo": "Leia Silva", "qtd": 0, "filhos_3menos": False}, 
     {"nome": "Lilian Caroline", "telefone": "0000000000000000", "codigo": "Lilian Caroline", "qtd": 1, "filhos_3menos": False}, 
+    {"nome": "Lídia Vanessa", "telefone": "0000000000000000", "codigo": "Lídia Vanessa", "qtd": 1, "filhos_3menos": False}, 
     {"nome": "Luiz Carlos Figueiredo", "telefone": "5519997245365", "codigo": "Luiz Carlos Figueiredo", "qtd": 1, "filhos_3menos": False}, 
     {"nome": "Marcio Domingues", "telefone": "554299168185", "codigo": "Marcio Domingues", "qtd": 2, "filhos_3menos": False}, 
     {"nome": "Maria Eduarda Suyama", "telefone": "5519982970013", "codigo": "Maria Eduarda Suyama", "qtd": 0, "filhos_3menos": False}, 
