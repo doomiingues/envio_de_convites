@@ -79,11 +79,18 @@ print("Você tem 10 segundos...")
 time.sleep(10)
 
 for pessoa in convidados:
+    grupo = pessoa["grupo"]
     nome = pessoa["nome"]
     telefone = pessoa["telefone"]
     codigo = pessoa["codigo"]
     qtd = pessoa["qtd"]
     filhos_3menos = pessoa["filhos_3menos"]
+
+    if grupo != grupo_atual:
+        grupo_atual = grupo
+        print("\n" + "=" * 60)
+        print(f"Inicianando envio: {grupo_atual.upper()}")
+        print("\n" + "=" * 60)
     
     if filhos_3menos == False:
         mensagem = f"""Olá {nome}! 😊
@@ -149,6 +156,6 @@ for pessoa in convidados:
     pyautogui.press("enter")
     time.sleep(3)
 
-    print(f"✅ Enviado para {nome}")
+    print(f"✅ Enviado para {nome} ({grupo})")
 
 print("🎉 Todos enviados!")
