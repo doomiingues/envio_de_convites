@@ -9,8 +9,8 @@ convidados = [
     
     #Familia Rayssa
     {"grupo": "Familia Rayssa", "nome": "Adriano Crepaldi", "telefone": "5519992705561", "codigo": "Adriano Crepaldi", "qtd": 1, "filhos_3menos": False}, 
-    {"grupo": "Familia Rayssa", "nome": "Andreia David", "telefone": "5515988236327", "codigo": "Andreia David", "qtd": 3, "filhos_3menos": True}, 
-    {"grupo": "Familia Rayssa", "nome": "Lucileia Aparecida Torres de Menezes", "telefone": "5519993024568", "codigo": "Lucileia Aparecida Torres de Menezes", "qtd": 0, "filhos_3menos": False}, 
+    {"grupo": "Familia Rayssa", "nome": "Andreia David", "telefone": "5515988236327", "codigo": "Andreia David", "qtd": 3, "filhos_3menos": False}, 
+    {"grupo": "Familia Rayssa", "nome": "Lucileia Aparecida Torres de Menezes", "telefone": "5519993024568", "codigo": "Lucileia Aparecida Torres de Menezes", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Elena Cristina Caetano", "telefone": "5519997778775", "codigo": "Elena Cristina Caetano", "qtd": 0, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Leia Silva", "telefone": "5519998216406", "codigo": "Leia Silva", "qtd": 0, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Lilian Caroline", "telefone": "5519999556176", "codigo": "Lilian Caroline", "qtd": 0, "filhos_3menos": False},
@@ -56,7 +56,7 @@ convidados = [
     {"grupo": "Amigos Igreja", "nome": "Alexandre Valeriano", "telefone": "5519992354942", "codigo": "Alexandre Valeriano", "qtd": 2, "filhos_3menos": False}, 
     {"grupo": "Amigos Igreja", "nome": "Ana Paula Souza", "telefone": "5519991959731", "codigo": "Ana Paula Souza", "qtd": 4, "filhos_3menos": True}, 
     {"grupo": "Amigos Igreja", "nome": "Davi Lucca", "telefone": "5519989754529", "codigo": "Davi Lucca", "qtd": 0, "filhos_3menos": False}, #mandar para o andre ou nos msm confirmamos 
-    {"grupo": "Amigos Igreja", "nome": "Edimar Oliveira", "telefone": "+5519993463770", "codigo": "Edimar Oliveira", "qtd": 1, "filhos_3menos": False}, 
+    {"grupo": "Amigos Igreja", "nome": "Edimar Oliveira", "telefone": "5519993463770", "codigo": "Edimar Oliveira", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Amigos Igreja", "nome": "Fernando Dias", "telefone": "5519989955389", "codigo": "Fernando Dias", "qtd": 1, "filhos_3menos": True}, 	
     {"grupo": "Amigos Igreja", "nome": "Isac Silva", "telefone": "5519998709059", "codigo": "Isac Silva", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Amigos Igreja", "nome": "Joyce Lorena Oliveira", "telefone": "5519998094218", "codigo": "Joyce Lorena Oliveira", "qtd": 0, "filhos_3menos": True}, 
