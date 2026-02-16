@@ -10,11 +10,11 @@ convidados = [
     #Familia Rayssa
     {"grupo": "Familia Rayssa", "nome": "Adriano Crepaldi", "telefone": "5519992705561", "codigo": "Adriano Crepaldi", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Andreia David", "telefone": "5515988236327", "codigo": "Andreia David", "qtd": 3, "filhos_3menos": False}, 
-    {"grupo": "Familia Rayssa", "nome": "Lucileia Aparecida Torres de Menezes", "telefone": "5519993024568", "codigo": "Lucileia Aparecida Torres de Menezes", "qtd": 1, "filhos_3menos": False}, 
+    {"grupo": "Familia Rayssa", "nome": "Lucileia Menezes", "telefone": "5519993024568", "codigo": "Lucileia Menezes", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Elena Cristina Caetano", "telefone": "5519997778775", "codigo": "Elena Cristina Caetano", "qtd": 0, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Leia Silva", "telefone": "5519998216406", "codigo": "Leia Silva", "qtd": 0, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Lilian Caroline", "telefone": "5519999556176", "codigo": "Lilian Caroline", "qtd": 0, "filhos_3menos": False},
-    {"grupo": "Familia Rayssa", "nome": "Lídia Vanessa", "telefone": "5519992324095", "codigo": "Lídia Vanessa", "qtd": 0, "filhos_3menos": False},
+    {"grupo": "Familia Rayssa", "nome": "Lidia Vanessa", "telefone": "5519992324095", "codigo": "Lidia Vanessa", "qtd": 0, "filhos_3menos": False},
     {"grupo": "Familia Rayssa", "nome": "Maria José Crepaldi", "telefone": "5519983228753", "codigo": "Maria José Crepaldi", "qtd": 0, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Paula Andreia Crepaldi", "telefone": "5519993141823", "codigo": "Paula Andreia Crepaldi", "qtd": 1, "filhos_3menos": False}, 
     {"grupo": "Familia Rayssa", "nome": "Rayanne Crepaldi", "telefone": "5519982022980", "codigo": "Rayanne Crepaldi", "qtd": 0, "filhos_3menos": False}, 
@@ -33,7 +33,8 @@ convidados = [
     {"grupo": "Familia Guilherme", "nome": "Matheus Isidoro", "telefone": "554288892258", "codigo": "Matheus Isidoro", "qtd": 2, "filhos_3menos": True}, 
     {"grupo": "Familia Guilherme", "nome": "Ponciano Domingues", "telefone": "554284012798", "codigo": "Ponciano Domingues", "qtd": 3, "filhos_3menos": True}, 
     {"grupo": "Familia Guilherme", "nome": "Suelen Ramos", "telefone": "554288696067", "codigo": "Suelen Ramos", "qtd": 1, "filhos_3menos": False}, 
-    {"grupo": "Familia Guilherme", "nome": "Taciele Domingues", "telefone": "554299957984", "codigo": "Taciele Domingues", "qtd": 1, "filhos_3menos": True}, 
+    {"grupo": "Familia Guilherme", "nome": "Taciele Domingues", "telefone": "554299957984", "codigo": "Taciele Domingues", "qtd": 1, "filhos_3menos": False}, 
+    {"grupo": "Familia Guilherme", "nome": "Elyeser Requiao", "telefone": "554298718522", "codigo": "Elyeser Requiao", "qtd": 0, "filhos_3menos": False}, 
 
 
     #Amigos Rayssa
