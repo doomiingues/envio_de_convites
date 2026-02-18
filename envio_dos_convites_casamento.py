@@ -33,7 +33,7 @@ convidados = [
     {"grupo": "Familia Guilherme", "nome": "Matheus Isidoro", "telefone": "554288892258", "codigo": "Matheus Isidoro", "qtd": 2, "filhos_3menos": True}, 
     {"grupo": "Familia Guilherme", "nome": "Ponciano Domingues", "telefone": "554284012798", "codigo": "Ponciano Domingues", "qtd": 3, "filhos_3menos": True}, 
     {"grupo": "Familia Guilherme", "nome": "Suelen Ramos", "telefone": "554288696067", "codigo": "Suelen Ramos", "qtd": 1, "filhos_3menos": False}, 
-    {"grupo": "Familia Guilherme", "nome": "Taciele Domingues", "telefone": "554299957984", "codigo": "Taciele Domingues", "qtd": 1, "filhos_3menos": False}, 
+    {"grupo": "Familia Guilherme", "nome": "Taciele Domingues", "telefone": "554299957984", "codigo": "Taciele Domingues", "qtd": 1, "filhos_3menos": True}, 
     {"grupo": "Familia Guilherme", "nome": "Elyeser Requiao", "telefone": "554298718522", "codigo": "Elyeser Requiao", "qtd": 0, "filhos_3menos": False}, 
 
 
@@ -67,7 +67,7 @@ convidados = [
 
     #Outros
     {"grupo": "Outros", "nome": "José Aldair Pereira", "telefone": "5519991488472", "codigo": "José Aldair Pereira", "qtd": 0, "filhos_3menos": False}, 
-    {"grupo": "Outros", "nome": "Pedro da Luz", "telefone": "5519987291126", "codigo": "Pedro da Luz", "qtd": 0, "filhos_3menos": False}, #numero do meu pai
+    {"grupo": "Outros", "nome": "Pedro da Luz", "telefone": "5519987291126", "codigo": "Pedro da Luz", "qtd": 0, "filhos_3menos": True}, #numero do meu pai
 
 
 ]
@@ -122,7 +122,7 @@ for pessoa in convidados:
     📌 Seu nome de acesso é: {codigo}
 
     👥 Neste convite estão incluídos: {qtd} acompanhante(s)
-    👶 Obs.: crianças de até 3 anos não entram na contagem de acompanhantes.
+    👶 Obs.: somente crianças de até 3 anos não entram na contagem de acompanhantes.
 
     📄 Agora é só abrir o PDF do convite e clicar no link para confirmar sua presença.
 
