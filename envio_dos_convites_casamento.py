@@ -96,26 +96,41 @@ for pessoa in convidados:
     if filhos_3menos == False:
         mensagem = f"""Olá {nome}! 😊
 
-    Você está convidado(a) para o nosso casamento 💍✨
+    💍✨ Olá! Você está convidado(a) para o casamento de Guilherme e Rayssa! ✨💍
 
-    Seu código de acesso é: {codigo}
+    Ficaremos muito felizes em ter você conosco nesse dia tão especial ❤️
 
-    Você tem {qtd} acompanhantes anexados ao seu convite.
+    📌 Seu nome de acesso é: {codigo}
 
-    Abra o PDF do convite e clique no link para confirmar presença ❤️
+    👥 Neste convite estão incluídos: {qtd} acompanhante(s)
+
+    📄 Agora é só abrir o PDF do convite e clicar no link para confirmar sua presença.
+
+    ✅ Contamos com você!
+
+    📌 Obs.: Caso tenha algum problema para abrir o PDF ou dificuldade para confirmar presença, é só nos chamar no WhatsApp que ajudamos rapidinho 😊
+
+    — Guilherme & Rayssa ❤️
     """
     else:
         mensagem = f"""Olá {nome}! 😊
 
-    Você está convidado(a) para o nosso casamento 💍✨
+    💍✨ Olá! Você está convidado(a) para o casamento de Guilherme e Rayssa! ✨💍
 
-    Seu código de acesso é: {codigo}
+    Ficaremos muito felizes em ter você conosco nesse dia tão especial ❤️
 
-    Você tem {qtd} acompanhantes anexados eu seu convite.
+    📌 Seu nome de acesso é: {codigo}
 
-    Sabemos que você tem crianças, crianças de ou até 3 anos não entram na contagem 
+    👥 Neste convite estão incluídos: {qtd} acompanhante(s)
+    👶 Obs.: crianças de até 3 anos não entram na contagem de acompanhantes.
 
-    Abra o PDF do convite e clique no link para confirmar presença ❤️   
+    📄 Agora é só abrir o PDF do convite e clicar no link para confirmar sua presença.
+
+    ✅ Contamos com você!
+
+    📌 Obs.: Caso tenha algum problema para abrir o PDF ou dificuldade para confirmar presença, é só nos chamar no WhatsApp que ajudamos rapidinho 😊
+
+    — Guilherme & Rayssa ❤️   
     
     """
 
